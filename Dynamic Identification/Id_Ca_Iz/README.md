@@ -21,7 +21,7 @@ small angle linear model
 ![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/8.png)  
 tanh model  
 ![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/9.png)
-### Where, Fy denotes the lateral of a single wheel, not a combined wheel.
+Where, Fy denotes the lateral of a single wheel, not a combined wheel.  
 
 ## 2. Para Id of C_α and I_zz. 
 Slow speed and steering angle ensure linear lateral dynamic  
@@ -30,6 +30,7 @@ Slow speed and steering angle ensure linear lateral dynamic
 add two equations:  
 ![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/11.png)
 ### (2) Iz fit
-![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/12.png)  
+![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/12.png) 
+Finally, I adopt the least square to fit the linear tire model with side slip angle and later force. Then, the Iz is identified by least square as well. The following two figures express the result of indentification.
 ![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/13.png)
 ![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/14.png)
