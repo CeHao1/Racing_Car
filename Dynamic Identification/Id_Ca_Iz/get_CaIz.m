@@ -16,6 +16,7 @@ function [Ca,Iz]=get_CaIz(ay,d2psi,alpf,alpr)
     % parameters:
         % Ca: lateral stiffness of tire
         % Iz: yaw moment of inertia
+        % m: mass of vehicle
     
 %% get Ca
 cvx_begin
