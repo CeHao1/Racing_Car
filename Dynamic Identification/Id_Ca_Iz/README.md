@@ -4,5 +4,6 @@ The speficic dynamic model and identification method are presented in the docume
 implement this algorithm
 
 ## lateral dynamic model
-
+![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/1.png)
 ### (1)	vehicle dynamic
+![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/2.png)
