@@ -31,6 +31,6 @@ add two equations:
 ![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/11.png)
 ### (2) Iz fit
 ![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/12.png) 
-Finally, I adopt the least square to fit the linear tire model with side slip angle and later force. Then, the Iz is identified by least square as well. The following two figures express the result of indentification.
+Finally, I adopt the least square to fit the linear tire model with side slip angle and later force. Then, the Iz is identified by least square as well. The following two figures express the result of indentification.  
 ![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/13.png)
 ![image](https://github.com/CeHao1/Racing_Car/blob/master/Dynamic%20Identification/Id_Ca_Iz/image/14.png)
