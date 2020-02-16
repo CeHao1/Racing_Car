@@ -16,3 +16,7 @@ Combine the Ackermann turning formula and pursuit formula, we have:
 However, how to define and select the lookahead distance ld is important. The higher velocity, the farther distance should be predicted. Therefore, we introduce the dynamic lookahead distance Lf  
 ![image](https://github.com/CeHao1/Racing_Car/blob/master/Controller/pure%20pursuit/image/6.png)  
 Where, L0 denotes a basic distance and kx denotes a coefficient that amplify the distance according to velocity. If the vehicle runs in higher speed, the lookahead distance will be higher correspondingly. 
+
+## Demo
+Let's watch a video of the application of pure pursuit
+https://www.youtube.com/watch?v=Y61vIFtw0zk
