@@ -3,3 +3,6 @@ Here I introduce a method to identify two important parameters in lateral dynami
 The speficic dynamic model and identification method are presented in the document. Besides, I provid a matlab function with cvx to 
 implement this algorithm
 
+## lateral dynamic model
+
+### (1)	vehicle dynamic
