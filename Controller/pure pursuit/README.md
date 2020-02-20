@@ -19,4 +19,4 @@ Where, L0 denotes a basic distance and kx denotes a coefficient that amplify the
 
 ## Demo
 Let's watch a video of the application of pure pursuit
-https://www.youtube.com/watch?v=Y61vIFtw0zk
+https://www.youtube.com/watch?v=aVt3t_vjC1w
